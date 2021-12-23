@@ -1,2 +1,0 @@
-# Internship
-Data science Internship
